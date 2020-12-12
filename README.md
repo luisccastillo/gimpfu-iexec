@@ -21,4 +21,5 @@ docker run --rm -v /home/iexec/iexec-projets/gimpfu-iexec/iexec_in:/iexec_in -v 
 make sure to create both the input and output folders
 
 ### The tunnel
-The following video was made using gimpfu in batch mode in order to process more than 80 files (of 10 MB each): https://vimeo.com/490179951
+The following video was made using gimpfu in batch mode in order to process more than 80 files (of 10 MB each)
+* Le tunnel https://vimeo.com/490181629
