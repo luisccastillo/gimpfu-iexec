@@ -20,7 +20,7 @@ def cartoon_file(n_propagation, filepath, filename, output_directory):
 
 register(
     "python-fu-cartoon",
-    "Applies a cartoonish look on an image",
+    "Applies a color propagate filter on an image to create a cartoonish look",
     "Pass the filepath, filename and output directory",
     "Carlos Castillo",
     "Carlos Castillo",
